@@ -5,7 +5,7 @@ Input (n number of txt files with below format)
 
 data1.txt
 -------------------------------------------------------------------------------------------------
-#,CTY,Types,isOpen,seats
+#,CTY,Types,isOpen,seats 
 1,BNG,school,true,100
 2,HYD,school,true,150
 3,MUM,school,true,200

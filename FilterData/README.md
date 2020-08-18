@@ -41,3 +41,7 @@ Key points:
 -Header is removed in Output <br />
 -First it is filtered with areas that are open (isOpen=true) <br />
 -Then based on filter condition, gives output city & type wise total seats. <br />
+
+Problem Statement Credits:
+-------------------------------------------------------------------------------------------------
+OnlineLearningCenter : https://www.youtube.com/watch?v=QawWKtjtWqg

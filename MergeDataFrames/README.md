@@ -21,18 +21,18 @@ EmployeeID,EmployeeName,Department<br/>
 
 Output
 ---------------------------------------------------------------------------------------------------------------------
-+----------+------------+------+----------+
-|EmployeeID|EmployeeName|Salary|Department|
-+----------+------------+------+----------+
-|       101|Kriti Kapoor| 10000|      null|
-|       102|Shweta Dixit| 50000|      null|
-|       205| Rahul Yadav| 25000|      null|
-|       711|  Aman Dubey| 35000|      null|
-|       101|Kriti Kapoor|  null|     Sales|
-|       102|Shweta Dixit|  null|   Finance|
-|       205| Rahul Yadav|  null| Marketing|
-|       814|Vishal Arora|  null|   Finance|
-+----------+------------+------+----------+
++----------+------------+------+----------+<br/>
+|EmployeeID|EmployeeName|Salary|Department|<br/>
++----------+------------+------+----------+<br/>
+|       101|Kriti Kapoor| 10000|      null|<br/>
+|       102|Shweta Dixit| 50000|      null|<br/>
+|       205| Rahul Yadav| 25000|      null|<br/>
+|       711|  Aman Dubey| 35000|      null|<br/>
+|       101|Kriti Kapoor|  null|     Sales|<br/>
+|       102|Shweta Dixit|  null|   Finance|<br/>
+|       205| Rahul Yadav|  null| Marketing|<br/>
+|       814|Vishal Arora|  null|   Finance|<br/>
++----------+------------+------+----------+<br/>
 
 
 Key points:<br/>
